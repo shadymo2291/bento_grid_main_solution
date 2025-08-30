@@ -10,7 +10,7 @@
 
 ### Links
 
-- Solution URL:(https://your-solution-url.com)](https://github.com/shadymo2291/bento_grid_main_solution)
+- Solution URL:https://github.com/shadymo2291/bento_grid_main_solution
 
 ### Built with
 
